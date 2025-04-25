@@ -27,5 +27,6 @@ pipeline {
           sh 'docker push jilopezv/spring-petclinic:latest'
         }
       }
+    }
   }
 }
